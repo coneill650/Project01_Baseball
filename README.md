@@ -1,1 +1,1 @@
-# Project01_Baseball
+# Project #1: Baseball Analytics
